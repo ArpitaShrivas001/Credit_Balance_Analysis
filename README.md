@@ -1,27 +1,19 @@
 # Credit_Card_Acitivity
-Prediction Modelling using regression to identify key factors affecting credit card activity in a firm
 
-  SUMMARY:
-To get a better estimate of its accounts receivable in the form of customer monthly credit
-card balances, credit card companies are interested in understanding the key reasons or factors that affect 
-the level and frequency of credit card activity.
+**SUMMARY**
+Credit card companies are leveraging data analysis to gain a deeper understanding of the factors driving the variation in customer monthly credit card balances. The primary aim is to enhance customer service and optimize business operations through data-informed decision-making.
 
-In order to better provide services to customers and regulate its business operations, data analysis can immensely 
-help in taking data drive decsisions. 
+**GOALS**
+This study involves the utilization of regression modeling through Analysis of Variance (ANOVA) to achieve the following objectives:
 
-GOALS:
-Conducted regression modelling using ANOVA to identify below:
+1) Identification of key determinants influencing credit card activity within the organization.
+2) Selection of optimal factors for accurately estimating monthly customer credit card balances.
+3) Uncovering the significant factors contributing to the observed balance levels.
+4) Identification and analysis of the top five factors exerting an influence on credit card balances.
 
-key factors that influence credit card activity in this firm 
-factors that provide the best estimate of monthly customer credit card balances. 
-key factors that influence the observed level of balances. 
-five factors that influence credit card balances 
-
-PROJECT FLOW:
-1)Identified potential variables by testing prediction models using regression 
-2)Evalauted the prediction model - standard error of estimate, coefficient of determination 
-3)Checked significance of the model using hypothesis testing 
-
-Tools: ANOVA, Predictive modelling, regression analysis, hypothesis testing,
-Type1 errors, collinearity, p-value, R-square, F value
-  	
+**PROJECT FLOW**
+1) Initial identification of potential variables was performed by subjecting prediction models to regression analysis.
+2) Assessment of the prediction model involved evaluating metrics such as the standard error of estimate and coefficient of determination (R-squared).
+3) The statistical significance of the model was established using hypothesis testing, including examination of Type 1 errors, assessment of collinearity, and analysis of p-values.
+Tools and Concepts:
+The analytical toolkit for this project includes ANOVA, predictive modeling, regression analysis, hypothesis testing, considerations of Type 1 errors, collinearity assessment, p-value analysis, determination of R-squared, and evaluation of the F-value.
